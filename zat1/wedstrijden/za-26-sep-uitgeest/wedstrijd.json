@@ -1,0 +1,26 @@
+{
+  "test": false,
+  "competitie": "VIERDE DIVISIE A",
+  "speelronde": "SPEELRONDE 5",
+  "datum": "ZATERDAG 26 SEPTEMBER",
+  "tijd": "14:30 UUR",
+  "locatie": "SPORTPARK DE KOOG",
+  "plaats": "UITGEEST",
+  "thuis": {
+    "club": "FC Uitgeest",
+    "label": "UITGEEST",
+    "logo": "logos/tegenstanders/fc-uitgeest.png",
+    "logoSchaal": 1.35
+  },
+  "uit": {
+    "club": "WV-HEDW",
+    "label": "WV-HEDW",
+    "logo": "logo/wv-hedw-blauw.svg",
+    "logoSchaal": 1
+  },
+  "fotos": [
+    { "bestand": "foto-1.jpg", "focus": { "x": 0.55, "y": 0.5 } },
+    { "bestand": "foto-2.jpg", "focus": { "x": 0.5, "y": 0.5 } },
+    { "bestand": "foto-3.jpg", "focus": { "x": 0.67, "y": 0.5 } }
+  ]
+}

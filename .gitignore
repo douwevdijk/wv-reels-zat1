@@ -1,0 +1,21 @@
+# Afhankelijkheden en bouwuitvoer
+node_modules/
+build/
+dist/
+out/
+.DS_Store
+
+# Geheimen (API-sleutels)
+.env
+.env.*
+
+# Gerenderde uitvoer (staat op Drive of is opnieuw te maken)
+*.mp4
+*.mov
+*.wav
+zat1/wedstrijden/**/aankondiging-*.jpg
+zat1/wedstrijden/**/opstelling-*.jpg
+
+# Referentievideo's Zat1 wel bewaren
+!zat1/aankondiging.mp4
+!zat1/opstelling-v4.mp4

@@ -1,0 +1,38 @@
+{
+  "test": true,
+  "thuis": {
+    "naam": "s.v. Hoofddorp",
+    "label": "HOOFDDORP",
+    "logo": "logos/tegenstanders/hoofddorp.svg",
+    "logoSchaal": 1
+  },
+  "uit": {
+    "naam": "WV-HEDW",
+    "label": "WV-HEDW",
+    "logo": "logo/wv-hedw-blauw.svg",
+    "logoSchaal": 1
+  },
+  "basis": [
+    { "nummer": 21, "naam": "PAUL AGNE", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/21-paul-agne.png" },
+    { "nummer": 17, "naam": "KEN RAGHOEBAR", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/17-ken-raghoebar.png" },
+    { "nummer": 5, "naam": "MIDAS PLOEM-KEMPKES", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/5-midas-ploem-kempkes.png" },
+    { "nummer": 6, "naam": "TIM DE JONG", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/6-tim-de-jong.png" },
+    { "nummer": 12, "naam": "TIM BRINKMAN", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/12-tim-brinkman.png" },
+    { "nummer": 8, "naam": "DENIS WOONINCK", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/8-denis-wooninck.png" },
+    { "nummer": 23, "naam": "RIVALDO BLIJD", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/23-rivaldo-blijd.png" },
+    { "nummer": 19, "naam": "BJORN VAN BREENEN", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/19-bjorn-van-breenen.png" },
+    { "nummer": 10, "naam": "TIM CORREIA", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/10-tim-correia.png" },
+    { "nummer": 24, "naam": "ZYVAIRO RITFELD", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/24-zyvairo-ritfeld.png" },
+    { "nummer": 20, "naam": "ANTONIO LAZZERI", "foto": "wedstrijden/zo-13-sep-hoofddorp/testfotos/20-antonio-lazzeri.png" }
+  ],
+  "bank": [
+    { "nummer": 1, "naam": "DION THOMAS" },
+    { "nummer": 26, "naam": "HIDDE VERMAAS" },
+    { "nummer": 3, "naam": "CHIVU GATHIER" },
+    { "nummer": 7, "naam": "MATS EISING" },
+    { "nummer": 16, "naam": "THOMAS BEEKMAN" },
+    { "nummer": 2, "naam": "ROMEO FECUNDA" },
+    { "nummer": 14, "naam": "MO AIT ABDELLAH" }
+  ],
+  "eindspeler": 12
+}

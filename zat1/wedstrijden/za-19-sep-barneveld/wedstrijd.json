@@ -1,0 +1,22 @@
+{
+  "test": true,
+  "competitie": "VIERDE DIVISIE A",
+  "speelronde": "SPEELRONDE 4",
+  "datum": "ZATERDAG 19 SEPTEMBER",
+  "tijd": "14:30 UUR",
+  "locatie": "SPORTPARK MIDDENMEER",
+  "plaats": "AMSTERDAM",
+  "thuis": {
+    "club": "WV-HEDW",
+    "label": "WV-HEDW",
+    "logo": "logo/wv-hedw-blauw.svg",
+    "logoSchaal": 1
+  },
+  "uit": {
+    "club": "SDV Barneveld",
+    "label": "BARNEVELD",
+    "logo": "logos/tegenstanders/sdv-barneveld.png",
+    "logoSchaal": 0.963
+  },
+  "fotos": [{ "bestand": "foto-1.jpg", "focus": { "x": 0.5, "y": 0.5 } }]
+}

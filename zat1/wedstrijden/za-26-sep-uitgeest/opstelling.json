@@ -1,0 +1,39 @@
+{
+  "test": false,
+  "thuis": {
+    "naam": "FC Uitgeest",
+    "label": "UITGEEST",
+    "logo": "logos/tegenstanders/fc-uitgeest.png",
+    "logoSchaal": 1.35
+  },
+  "uit": {
+    "naam": "WV-HEDW",
+    "label": "WV-HEDW",
+    "logo": "logo/wv-hedw-blauw.svg",
+    "logoSchaal": 1
+  },
+  "basis": [
+    { "nummer": 21, "naam": "PAUL AGNE" },
+    { "nummer": 17, "naam": "KEN RAGHOEBAR" },
+    { "nummer": 5, "naam": "MIDAS PLOEM-KEMPKES" },
+    { "nummer": 6, "naam": "TIM DE JONG" },
+    { "nummer": 12, "naam": "TIM BRINKMAN" },
+    { "nummer": 8, "naam": "DENIS WOONINCK" },
+    { "nummer": 23, "naam": "RIVALDO BLIJD" },
+    { "nummer": 14, "naam": "JORDY DIJKHUIZEN" },
+    { "nummer": 10, "naam": "TIM CORREIA" },
+    { "nummer": 16, "naam": "THOMAS BEEKMAN" },
+    { "nummer": 20, "naam": "ANTONIO LAZZERI" }
+  ],
+  "bank": [
+    { "nummer": 1, "naam": "DION THOMAS" },
+    { "nummer": 24, "naam": "ZYVAIRO RITFELD" },
+    { "nummer": 9, "naam": "DAMIEN DE VEGT" },
+    { "nummer": 2, "naam": "ROMEO FECUNDA" },
+    { "nummer": 3, "naam": "CHIVU GATHIER" },
+    { "nummer": 19, "naam": "BJORN VAN BREENEN" },
+    { "nummer": 26, "naam": "HIDDE VERMAAS" }
+  ],
+  "eindspeler": 5,
+  "kaartspeler": 5
+}
